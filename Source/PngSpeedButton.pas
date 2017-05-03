@@ -30,6 +30,7 @@ type
     property PngOptions: TPngOptions read FPngOptions write SetPngOptions default [pngBlendOnDisabled];
     property Glyph stored False;
     property NumGlyphs stored False;
+    property Align;
   end;
 
 implementation
