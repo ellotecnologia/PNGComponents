@@ -1,749 +1,0 @@
-***************************************
-BEGIN: Unregistering Component Package
-***************************************
-
-Cleaning Known Package Registry Entry
-
-Reading Packages:
-c:\program files\borland\delphi7\Bin\dclite70.bpl
-c:\program files\borland\delphi7\Bin\dclindy70.bpl
-$(Delphi)\Bin\dclstd70.bpl
-c:\program files\borland\delphi7\Bin\dclmcn70.bpl
-$(Delphi)\Bin\dclmid70.bpl
-$(Delphi)\Bin\dcldb70.bpl
-c:\program files\borland\delphi7\Bin\dclocx70.bpl
-c:\program files\borland\delphi7\Bin\dclsmp70.bpl
-c:\program files\borland\delphi7\Bin\dcldbx70.bpl
-c:\program files\borland\delphi7\Bin\dcldbxcds70.bpl
-c:\program files\borland\delphi7\Bin\DBWEBXPRT.BPL
-$(Delphi)\Bin\dclbde70.bpl
-$(Delphi)\Bin\dbx70.bpl
-c:\program files\borland\delphi7\Bin\dclie70.bpl
-c:\program files\borland\delphi7\Bin\dclado70.bpl
-c:\program files\borland\delphi7\Bin\DCLIB70.bpl
-c:\program files\borland\delphi7\Bin\dcltee70.bpl
-c:\program files\borland\delphi7\Bin\dcldss70.bpl
-c:\program files\borland\delphi7\Bin\dclclxdb70.bpl
-$(Delphi)\Bin\dclclxstd70.bpl
-c:\program files\borland\delphi7\Bin\dclsmpedit70.bpl
-c:\program files\borland\delphi7\Bin\applet70.bpl
-c:\program files\borland\delphi7\Bin\dclemacsedit70.bpl
-c:\program files\borland\delphi7\Bin\dclact70.bpl
-c:\program files\borland\delphi7\Bin\dclmlwiz70.bpl
-c:\program files\borland\delphi7\Bin\dcl31w70.bpl
-$(SystemRoot)\system32\ibevnt70.bpl
-c:\program files\borland\delphi7\Bin\dclshlctrls70.bpl
-c:\program files\borland\delphi7\Bin\dclIntraweb_50_70.bpl
-c:\program files\borland\delphi7\bin\dclRave70.bpl
-c:\program files\borland\delphi7\Bin\dclofficexp70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxLibraryVCLD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxPageControlVCLD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxExtEditorsVCLD7.bpl
-$(Delphi)\Projects\Bpl\dclcxEditorsVCLD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxRibbonD7.bpl
-$(Delphi)\Projects\Bpl\dcldxBarD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxBarExtDBItemsD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxBarExtItemsD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxBarDBNavD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxBarEditItemD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxDockingD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxFlowChartD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxNavBarD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxGridD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxTreeListVCLD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxVerticalGridVCLD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclcxWebD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\B305vd70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\B305cd70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclDesignExperienceD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclmdo70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\mxOutlookBar_D7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\rxctl7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclrx7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\SpedFiscal.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dclusr70.bpl
-D:\Triburtini\Componentes\fortesreport-d7\RLibWinD7vcl.bpl
-c:\program files\borland\delphi7\Projects\Bpl\XStringGrid_D7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\SynEdit_D7.bpl
-$(Delphi)\Projects\Bpl\asqlite3.bpl
-c:\program files\borland\delphi7\Projects\Bpl\Seguranca.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclVersionControlExpert70.bpl
-$(Delphi)\Projects\Bpl\JclBaseExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclUsesExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclThreadNameExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclSIMDViewExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclRepositoryExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclProjectAnalysisExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclFavoriteFoldersExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\JclDebugExpert70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dxPScxGrid6LnkD7.bpl
-$(Delphi)\Projects\Bpl\dxPScxCommonD7.bpl
-$(Delphi)\Projects\Bpl\dxPSLnksD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dcldxPSCoreD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dxPScxExtCommonD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\dxPsPrVwAdvD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\duel.bpl
-D:\Triburtini\Componentes\NTierObjects2010\dcu\NTierObjects.bpl
-c:\program files\borland\delphi7\Projects\Bpl\EcoSistemasD7.bpl
-$(Delphi)\Bin\dclqrt70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ExcellentD7.bpl
-$(Delphi)\Projects\Bpl\TriburtiniD7.bpl
-c:\program files\borland\delphi7\Projects\Bpl\WinSkinD7.bpl
-c:\program files\borland\delphi7\Bin\dclnet70.bpl
-c:\program files\borland\delphi7\Bin\dclsoap70.bpl
-c:\program files\borland\delphi7\Bin\dclwbm70.bpl
-c:\program files\borland\delphi7\Bin\dclwebsnap70.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrComum.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrDiversos.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrSerial.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_SPED.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_PAF.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_Sintegra.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_TEFD.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrTCP.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_Boleto.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrOpenSSL.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_NFe2.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrNFeDanfeRV.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrNFeDanfeRVCodeBase.bpl
-$(ProgramFiles)\Barcode2D\delphi_7\HsBarcode2DDgn.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_BoletoFC_Fortes.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBr_CTe.bpl
-c:\program files\borland\delphi7\Projects\Bpl\ACBrCTeDacteQRpkg.bpl
-c:\program files\borland\delphi7\Projects\Bpl\DCLSvQrBarcode7.bpl
- 
-Stripping off path and extension
-dclite70
-dclindy70
-dclstd70
-dclmcn70
-dclmid70
-dcldb70
-dclocx70
-dclsmp70
-dcldbx70
-dcldbxcds70
-DBWEBXPRT
-dclbde70
-dbx70
-dclie70
-dclado70
-DCLIB70
-dcltee70
-dcldss70
-dclclxdb70
-dclclxstd70
-dclsmpedit70
-applet70
-dclemacsedit70
-dclact70
-dclmlwiz70
-dcl31w70
-ibevnt70
-dclshlctrls70
-dclIntraweb_50_70
-dclRave70
-dclofficexp70
-dclcxLibraryVCLD7
-dclcxPageControlVCLD7
-dclcxExtEditorsVCLD7
-dclcxEditorsVCLD7
-dcldxRibbonD7
-dcldxBarD7
-dcldxBarExtDBItemsD7
-dcldxBarExtItemsD7
-dcldxBarDBNavD7
-dclcxBarEditItemD7
-dcldxDockingD7
-dcldxFlowChartD7
-dcldxNavBarD7
-dclcxGridD7
-dclcxTreeListVCLD7
-dclcxVerticalGridVCLD7
-dclcxWebD7
-B305vd70
-B305cd70
-dclDesignExperienceD7
-dclmdo70
-mxOutlookBar_D7
-rxctl7
-dclrx7
-SpedFiscal
-dclusr70
-RLibWinD7vcl
-XStringGrid_D7
-SynEdit_D7
-asqlite3
-Seguranca
-JclVersionControlExpert70
-JclBaseExpert70
-JclUsesExpert70
-JclThreadNameExpert70
-JclSIMDViewExpert70
-JclRepositoryExpert70
-JclProjectAnalysisExpert70
-JclFavoriteFoldersExpert70
-JclDebugExpert70
-dxPScxGrid6LnkD7
-dxPScxCommonD7
-dxPSLnksD7
-dcldxPSCoreD7
-dxPScxExtCommonD7
-dxPsPrVwAdvD7
-duel
-NTierObjects
-EcoSistemasD7
-dclqrt70
-ExcellentD7
-TriburtiniD7
-WinSkinD7
-dclnet70
-dclsoap70
-dclwbm70
-dclwebsnap70
-ACBrComum
-ACBrDiversos
-ACBrSerial
-ACBr_SPED
-ACBr_PAF
-ACBr_Sintegra
-ACBr_TEFD
-ACBrTCP
-ACBr_Boleto
-ACBrOpenSSL
-ACBr_NFe2
-ACBrNFeDanfeRV
-ACBrNFeDanfeRVCodeBase
-HsBarcode2DDgn
-ACBr_BoletoFC_Fortes
-ACBr_CTe
-ACBrCTeDacteQRpkg
-DCLSvQrBarcode7
- 
-Reading Packages to remove
-PNG_D7
-PngComponentsD7
-PngComponentsD7D
- 
-Stripping off path and extension
-PNG_D7
-PngComponentsD7
-PngComponentsD7D
- 
-Scanning for previously installed packages....
-Known Package Registry Entry Cleaned
-
-Cleaning Disabled Package Registry Entry
-
-Reading Packages:
- 
-Stripping off path and extension
- 
-Reading Packages to remove
-PNG_D7
-PngComponentsD7
-PngComponentsD7D
- 
-Stripping off path and extension
-PNG_D7
-PngComponentsD7
-PngComponentsD7D
- 
-Scanning for previously installed packages....
-Disabled Package Registry Entry Cleaned
-
-Reading Search Path Registry Entry
-C:\Program Files\Borland\Delphi7\Lib
-C:\Program Files\Borland\Delphi7\Bin
-C:\Program Files\Borland\Delphi7\Imports
-C:\Program Files\Borland\Delphi7\Projects\Bpl
-C:\Program Files\Borland\Delphi7\Rave5\Lib
-D:\TRIBURTINI\Componentes\RX\Units
-C:\Arquivos de programas\Woll2Woll\ip4000vcl7\source
-D:\Temp\NFE\outrodemo\componentesextras\navbtn
-D:\TRIBURTINI\Componentes\Excellent\AdvGrid
-D:\TRIBURTINI\Componentes\Excellent
-D:\TRIBURTINI\Componentes\Triburtini
-D:\TRIBURTINI\Componentes\outlook
-D:\TRIBURTINI\Componentes\dxpack\Sources
-D:\TRIBURTINI\Componentes\Crystal
-D:\TRIBURTINI\Componentes\DevExpress\2XP Theme Manager\Sources
-D:\TRIBURTINI\Componentes\DevExpress\3ExpressGDI+ Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\4ExpressLibrary\Sources
-D:\TRIBURTINI\Componentes\DevExpress\5ExpressPageControl 2\Sources
-D:\TRIBURTINI\Componentes\DevExpress\6ExpressCommon Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\7ExpressEditors Library 5\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumGrid Suite v6.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressBars Suite v6.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressNavbar Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressOrgChart Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressPrinting System v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumTreeList Suite v4.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressVerticalGrid Suite v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressScript Engine\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressWeb Framework\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\Innerfuse Pascal Script\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressDocking Library v5.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressFlowChart Suite v1.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\1ExpressDataController\Sources
-D:\TRIBURTINI\Componentes\Abbrevia\source
-D:\TRIBURTINI\Componentes\mdo-rc2\Source\runtime
-D:\TRIBURTINI\Componentes\Sped
-D:\TRIBURTINI\Componentes\EcoCentauro
-D:\temp\nfe nova\outros\fortesreport-d7
-D:\TRIBURTINI\componentes\ckie
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrDiversos
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrComum
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrSerial
-D:\TRIBURTINI\Componentes\ACBr\Fontes\synalist
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Packages
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrBoleto
-D:\Triburtini\Componentes\fortesreport-d7
-D:\Triburtini\Componentes\ACBr\Fontes\PCN2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrNFe2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFiscal
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCapicom
-C:\Projetos\Classes\Componentes\Duel\Memos
-C:\Projetos\Classes\Componentes\Duel\Lib
-C:\Projetos\Classes\Componentes\Duel\Labels
-C:\Projetos\Classes\Componentes\Duel\Grids
-C:\Projetos\Classes\Componentes\Duel\Edits
-C:\Projetos\Classes\Componentes\Duel\drxCtrlLicenca
-C:\Projetos\Classes\Componentes\Duel\Boxes
-C:\Projetos\Classes\Componentes\Duel\Botoes
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonGeraChave
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonLincaRegistro
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonOpenDialog
-C:\Projetos\Classes\Componentes\Duel\Misc
-C:\Projetos\Classes\Componentes\synapse\source
-C:\Projetos\Classes\Componentes\synedit_beta_2_0_2\Source
-C:\Projetos\Classes\Componentes\ASQLite3_2008_03_A
-C:\Projetos\Classes\Componentes\jcl\source\windows
-C:\Projetos\Classes\Componentes\jcl
-C:\Projetos\Classes\Componentes\jcl\source
-C:\Projetos\Classes\Componentes\jcl\lib\d7
-C:\Projetos\Classes\Componentes\Seguranca
-C:\Projetos\Fontes
-D:\Triburtini\Componentes\acbr\Fontes\ACBrNFSe
-d:\triburtini\componentes\ntierobjects2010\dcu
-D:\Triburtini\Componentes\NTierObjects2010\src
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCTe
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDPisCofins
-D:\Triburtini\Componentes\OmniXML-latest
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFCont
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDContabil
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrTCP
-C:\Projetos\Classes\Componentes\XstringGrid
-C:\Projetos\Classes\Componentes\VNCServer
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSAT
-C:\Program Files\Barcode2D\delphi_7
-D:\Triburtini\Componentes\QRCODE
-    
-    
-Writing Search Path Registry Entry
-Removing extra characters and blank lines
-Formatting.....
-$(Delphi)\Lib
-$(Delphi)\Bin
-$(Delphi)\Imports
-$(Delphi)\Projects\Bpl
-$(Delphi)\Rave5\Lib
-D:\TRIBURTINI\Componentes\RX\Units
-C:\Arquivos de programas\Woll2Woll\ip4000vcl7\source
-D:\Temp\NFE\outrodemo\componentesextras\navbtn
-D:\TRIBURTINI\Componentes\Excellent\AdvGrid
-D:\TRIBURTINI\Componentes\Excellent
-D:\TRIBURTINI\Componentes\Triburtini
-D:\TRIBURTINI\Componentes\outlook
-D:\TRIBURTINI\Componentes\dxpack\Sources
-D:\TRIBURTINI\Componentes\Crystal
-D:\TRIBURTINI\Componentes\DevExpress\2XP Theme Manager\Sources
-D:\TRIBURTINI\Componentes\DevExpress\3ExpressGDI+ Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\4ExpressLibrary\Sources
-D:\TRIBURTINI\Componentes\DevExpress\5ExpressPageControl 2\Sources
-D:\TRIBURTINI\Componentes\DevExpress\6ExpressCommon Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\7ExpressEditors Library 5\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumGrid Suite v6.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressBars Suite v6.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressNavbar Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressOrgChart Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressPrinting System v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumTreeList Suite v4.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressVerticalGrid Suite v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressScript Engine\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressWeb Framework\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\Innerfuse Pascal Script\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressDocking Library v5.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressFlowChart Suite v1.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\1ExpressDataController\Sources
-D:\TRIBURTINI\Componentes\Abbrevia\source
-D:\TRIBURTINI\Componentes\mdo-rc2\Source\runtime
-D:\TRIBURTINI\Componentes\Sped
-D:\TRIBURTINI\Componentes\EcoCentauro
-D:\temp\nfe nova\outros\fortesreport-d7
-D:\TRIBURTINI\componentes\ckie
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrDiversos
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrComum
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrSerial
-D:\TRIBURTINI\Componentes\ACBr\Fontes\synalist
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Packages
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrBoleto
-D:\Triburtini\Componentes\fortesreport-d7
-D:\Triburtini\Componentes\ACBr\Fontes\PCN2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrNFe2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFiscal
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCapicom
-C:\Projetos\Classes\Componentes\Duel\Memos
-C:\Projetos\Classes\Componentes\Duel\Lib
-C:\Projetos\Classes\Componentes\Duel\Labels
-C:\Projetos\Classes\Componentes\Duel\Grids
-C:\Projetos\Classes\Componentes\Duel\Edits
-C:\Projetos\Classes\Componentes\Duel\drxCtrlLicenca
-C:\Projetos\Classes\Componentes\Duel\Boxes
-C:\Projetos\Classes\Componentes\Duel\Botoes
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonGeraChave
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonLincaRegistro
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonOpenDialog
-C:\Projetos\Classes\Componentes\Duel\Misc
-C:\Projetos\Classes\Componentes\synapse\source
-C:\Projetos\Classes\Componentes\synedit_beta_2_0_2\Source
-C:\Projetos\Classes\Componentes\ASQLite3_2008_03_A
-C:\Projetos\Classes\Componentes\jcl\source\windows
-C:\Projetos\Classes\Componentes\jcl
-C:\Projetos\Classes\Componentes\jcl\source
-C:\Projetos\Classes\Componentes\jcl\lib\d7
-C:\Projetos\Classes\Componentes\Seguranca
-C:\Projetos\Fontes
-D:\Triburtini\Componentes\acbr\Fontes\ACBrNFSe
-d:\triburtini\componentes\ntierobjects2010\dcu
-D:\Triburtini\Componentes\NTierObjects2010\src
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCTe
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDPisCofins
-D:\Triburtini\Componentes\OmniXML-latest
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFCont
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDContabil
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrTCP
-C:\Projetos\Classes\Componentes\XstringGrid
-C:\Projetos\Classes\Componentes\VNCServer
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSAT
-$(ProgramFiles)\Barcode2D\delphi_7
-D:\Triburtini\Componentes\QRCODE
-Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Search Path
-Search Path Registry Entry written
-
-Reading Browse Path Registry Entry
-C:\Program Files\Borland\Delphi7\source\vcl
-C:\Program Files\Borland\Delphi7\Source\Rtl
-C:\Program Files\Borland\Delphi7\source\rtl\Corba45
-C:\Program Files\Borland\Delphi7\source\rtl\Sys
-C:\Program Files\Borland\Delphi7\source\rtl\Win
-C:\Program Files\Borland\Delphi7\source\rtl\common
-C:\Program Files\Borland\Delphi7\source\Internet
-C:\Program Files\Borland\Delphi7\source\clx
-C:\Program Files\Borland\Delphi7\source\websnap
-C:\Program Files\Borland\Delphi7\Source\WebMidas
-C:\Program Files\Borland\Delphi7\Source\Indy
-C:\Program Files\Borland\Delphi7\Source\IntraWeb
-C:\Program Files\Borland\Delphi7\Source\Samples
-C:\Program Files\Borland\Delphi7\Source\Soap
-C:\Program Files\Borland\Delphi7\Source\ToolsAPI
-C:\Program Files\Borland\Delphi7\Source\Xml
-    
-    
-Writing Browse Path Registry Entry
-Removing extra characters and blank lines
-Formatting.....
-$(Delphi)\source\vcl
-$(Delphi)\Source\Rtl
-$(Delphi)\source\rtl\Corba45
-$(Delphi)\source\rtl\Sys
-$(Delphi)\source\rtl\Win
-$(Delphi)\source\rtl\common
-$(Delphi)\source\Internet
-$(Delphi)\source\clx
-$(Delphi)\source\websnap
-$(Delphi)\Source\WebMidas
-$(Delphi)\Source\Indy
-$(Delphi)\Source\IntraWeb
-$(Delphi)\Source\Samples
-$(Delphi)\Source\Soap
-$(Delphi)\Source\ToolsAPI
-$(Delphi)\Source\Xml
-Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Browsing Path
-Browse Path Registry Entry written
-
-***************************************
-END: Unregistering Component Package
-***************************************
-
-
-***************************************
-BEGIN: Compiling Component Package
-***************************************
-Creating temp compile folder
-Folder Created: C:\Users\TRIBUR~1\AppData\Local\Temp\ESetup
-
-Creating DCC32 config file
-Compiling....
-
-Running "C:\PROGRA~1\Borland\Delphi7\Bin\DCC32.exe" PNG_D7.dpk
-     in C:\PROGRA~1\PNGCOM~1\Delphi
-Borland Delphi Version 15.0
-Copyright (c) 1983,2002 Borland Software Corporation
-PNG_D7.dpk(1) PNG_D7.dpk(29) PNG_D7.dpk(31) PNG_D7.dpk(31) PNG_D7.dpk(31) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(1) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(125) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(126) C:\PROGRA~1\PNGCOM~1\Source\pngzlib.pas(1)    C:\PROGRA~1\PNGCOM~1\Source\pngzlib.pas(149) C:\PROGRA~1\PNGCOM~1\Source\pngzlib.pas(150) 
-C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(126) C:\PROGRA~1\PNGCOM~1\Source\pnglang.pas(1)    C:\PROGRA~1\PNGCOM~1\Source\pnglang.pas(302) 
-C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(135) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(512) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(1024) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(1536) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(2048) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(2560) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(3072) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(3584) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(4096) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(4608) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(5120) C:\PROGRA~1\PNGCOM~1\Source\pngimage.pas(5263) 
-PNG_D7.dpk(34) PNG_D7.dpk(34) PNG_D7.dpk(34) PNG_D7.dpk(36) PNG_D7.dpk(37) 
-5756 lines, 0.12 seconds, 55068 bytes code, 7413 bytes data.
-
-
-Compiling....
-
-Running "C:\PROGRA~1\Borland\Delphi7\Bin\DCC32.exe" PngComponentsD7.dpk
-     in C:\PROGRA~1\PNGCOM~1\Delphi
-Borland Delphi Version 15.0
-Copyright (c) 1983,2002 Borland Software Corporation
-PngComponentsD7.dpk(1) PngComponentsD7.dpk(30) PngComponentsD7.dpk(31) PngComponentsD7.dpk(32) PngComponentsD7.dpk(34) PngComponentsD7.dpk(34) PngComponentsD7.dpk(34) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(1) C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)       
-C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(1)   C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)     
-C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(10) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(29) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(1)  C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)     
-C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(11) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(127) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(129) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(270) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(782) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(1294) C:\PROGRA~1\PNGCOM~1\Source\PngImageList.pas(1352) 
-C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(31) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(270) C:\PROGRA~1\PNGCOM~1\Source\PngFunctions.pas(547) 
-C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(1) C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)           
-C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(10) C:\PROGRA~1\PNGCOM~1\Source\PngButtonFunctions.pas(103) 
-C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(11) C:\PROGRA~1\PNGCOM~1\Source\PngSpeedButton.pas(149) 
-PngComponentsD7.dpk(40) PngComponentsD7.dpk(40) PngComponentsD7.dpk(40) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(1) C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)  
-C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(10) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(12) C:\PROGRA~1\PNGCOM~1\Source\PngBitBtn.pas(263) 
-PngComponentsD7.dpk(40) PngComponentsD7.dpk(40) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(1) C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)        
-C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(8) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(9) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(11) C:\PROGRA~1\PNGCOM~1\Source\PngCheckListBox.pas(211) 
-PngComponentsD7.dpk(40) PngComponentsD7.dpk(42) PngComponentsD7.dpk(43) 
-4127 lines, 0.50 seconds, 27640 bytes code, 161 bytes data.
-
-
-Compiling....
-
-Running "C:\PROGRA~1\Borland\Delphi7\Bin\DCC32.exe" PngComponentsD7D.dpk
-     in C:\PROGRA~1\PNGCOM~1\Delphi
-Borland Delphi Version 15.0
-Copyright (c) 1983,2002 Borland Software Corporation
-PngComponentsD7D.dpk(1) PngComponentsD7D.dpk(31) PngComponentsD7D.dpk(33) PngComponentsD7D.dpk(33) PngComponentsD7D.dpk(33) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(1) C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)              
-C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(1)   C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)            
-C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(11) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(1)   C:\PROGRA~1\PNGCOM~1\Include\Thany.inc(243)           
-C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(8) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(9) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(10) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(10) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(10) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(10) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(12) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(98) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(270) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(782) C:\PROGRA~1\PNGCOM~1\Design\PngImageListEditor.pas(1167) 
-C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(75) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(270) C:\PROGRA~1\PNGCOM~1\Design\PngComponentEditors.pas(276) 
-C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(10) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(12) C:\PROGRA~1\PNGCOM~1\Design\PngComponentsRegister.pas(52) 
-PngComponentsD7D.dpk(36) PngComponentsD7D.dpk(36) PngComponentsD7D.dpk(36) PngComponentsD7D.dpk(38) PngComponentsD7D.dpk(39) 
-2264 lines, 0.98 seconds, 22660 bytes code, 153 bytes data.
-
-
- 
-Adding Package BPL to Registry
-Adding: $(Delphi)\Projects\Bpl\PNG_D7.bpl
-Adding: $(Delphi)\Projects\Bpl\PngComponentsD7D.bpl
-***************************************
-END: Compiling Component Package
-***************************************
-
-***************************************
-BEGIN: Registering Component Package Paths
-***************************************
-
-Reading Search Path Registry Entry
-Search Path Registry Entry Read...
-C:\Program Files\Borland\Delphi7\Lib
-C:\Program Files\Borland\Delphi7\Bin
-C:\Program Files\Borland\Delphi7\Imports
-C:\Program Files\Borland\Delphi7\Projects\Bpl
-C:\Program Files\Borland\Delphi7\Rave5\Lib
-D:\TRIBURTINI\Componentes\RX\Units
-C:\Arquivos de programas\Woll2Woll\ip4000vcl7\source
-D:\Temp\NFE\outrodemo\componentesextras\navbtn
-D:\TRIBURTINI\Componentes\Excellent\AdvGrid
-D:\TRIBURTINI\Componentes\Excellent
-D:\TRIBURTINI\Componentes\Triburtini
-D:\TRIBURTINI\Componentes\outlook
-D:\TRIBURTINI\Componentes\dxpack\Sources
-D:\TRIBURTINI\Componentes\Crystal
-D:\TRIBURTINI\Componentes\DevExpress\2XP Theme Manager\Sources
-D:\TRIBURTINI\Componentes\DevExpress\3ExpressGDI+ Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\4ExpressLibrary\Sources
-D:\TRIBURTINI\Componentes\DevExpress\5ExpressPageControl 2\Sources
-D:\TRIBURTINI\Componentes\DevExpress\6ExpressCommon Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\7ExpressEditors Library 5\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumGrid Suite v6.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressBars Suite v6.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressNavbar Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressOrgChart Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressPrinting System v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumTreeList Suite v4.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressVerticalGrid Suite v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressScript Engine\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressWeb Framework\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\Innerfuse Pascal Script\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressDocking Library v5.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressFlowChart Suite v1.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\1ExpressDataController\Sources
-D:\TRIBURTINI\Componentes\Abbrevia\source
-D:\TRIBURTINI\Componentes\mdo-rc2\Source\runtime
-D:\TRIBURTINI\Componentes\Sped
-D:\TRIBURTINI\Componentes\EcoCentauro
-D:\temp\nfe nova\outros\fortesreport-d7
-D:\TRIBURTINI\componentes\ckie
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrDiversos
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrComum
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrSerial
-D:\TRIBURTINI\Componentes\ACBr\Fontes\synalist
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Packages
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrBoleto
-D:\Triburtini\Componentes\fortesreport-d7
-D:\Triburtini\Componentes\ACBr\Fontes\PCN2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrNFe2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFiscal
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCapicom
-C:\Projetos\Classes\Componentes\Duel\Memos
-C:\Projetos\Classes\Componentes\Duel\Lib
-C:\Projetos\Classes\Componentes\Duel\Labels
-C:\Projetos\Classes\Componentes\Duel\Grids
-C:\Projetos\Classes\Componentes\Duel\Edits
-C:\Projetos\Classes\Componentes\Duel\drxCtrlLicenca
-C:\Projetos\Classes\Componentes\Duel\Boxes
-C:\Projetos\Classes\Componentes\Duel\Botoes
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonGeraChave
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonLincaRegistro
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonOpenDialog
-C:\Projetos\Classes\Componentes\Duel\Misc
-C:\Projetos\Classes\Componentes\synapse\source
-C:\Projetos\Classes\Componentes\synedit_beta_2_0_2\Source
-C:\Projetos\Classes\Componentes\ASQLite3_2008_03_A
-C:\Projetos\Classes\Componentes\jcl\source\windows
-C:\Projetos\Classes\Componentes\jcl
-C:\Projetos\Classes\Componentes\jcl\source
-C:\Projetos\Classes\Componentes\jcl\lib\d7
-C:\Projetos\Classes\Componentes\Seguranca
-C:\Projetos\Fontes
-D:\Triburtini\Componentes\acbr\Fontes\ACBrNFSe
-d:\triburtini\componentes\ntierobjects2010\dcu
-D:\Triburtini\Componentes\NTierObjects2010\src
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCTe
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDPisCofins
-D:\Triburtini\Componentes\OmniXML-latest
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFCont
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDContabil
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrTCP
-C:\Projetos\Classes\Componentes\XstringGrid
-C:\Projetos\Classes\Componentes\VNCServer
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSAT
-C:\Program Files\Barcode2D\delphi_7
-D:\Triburtini\Componentes\QRCODE
- 
-Adding Package source path:
-   C:\Program Files\PngComponents\Source
-
-    
-Writing Search Path Registry Entry
-Removing extra characters and blank lines
-Formatting.....
-$(Delphi)\Lib
-$(Delphi)\Bin
-$(Delphi)\Imports
-$(Delphi)\Projects\Bpl
-$(Delphi)\Rave5\Lib
-D:\TRIBURTINI\Componentes\RX\Units
-C:\Arquivos de programas\Woll2Woll\ip4000vcl7\source
-D:\Temp\NFE\outrodemo\componentesextras\navbtn
-D:\TRIBURTINI\Componentes\Excellent\AdvGrid
-D:\TRIBURTINI\Componentes\Excellent
-D:\TRIBURTINI\Componentes\Triburtini
-D:\TRIBURTINI\Componentes\outlook
-D:\TRIBURTINI\Componentes\dxpack\Sources
-D:\TRIBURTINI\Componentes\Crystal
-D:\TRIBURTINI\Componentes\DevExpress\2XP Theme Manager\Sources
-D:\TRIBURTINI\Componentes\DevExpress\3ExpressGDI+ Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\4ExpressLibrary\Sources
-D:\TRIBURTINI\Componentes\DevExpress\5ExpressPageControl 2\Sources
-D:\TRIBURTINI\Componentes\DevExpress\6ExpressCommon Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\7ExpressEditors Library 5\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Sources
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumGrid Suite v6.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressBars Suite v6.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressNavbar Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressOrgChart Suite v1.28 for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressPrinting System v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressQuantumTreeList Suite v4.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressVerticalGrid Suite v3.28.for.Delphi.BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressScript Engine\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\ExpressWeb Framework\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressWeb Framework v1.28.for.Delphi\Innerfuse Pascal Script\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressDocking Library v5.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\DevExpress ExpressFlowChart Suite v1.28 for Delphi BCB\Sources
-D:\TRIBURTINI\Componentes\DevExpress\1ExpressDataController\Sources
-D:\TRIBURTINI\Componentes\Abbrevia\source
-D:\TRIBURTINI\Componentes\mdo-rc2\Source\runtime
-D:\TRIBURTINI\Componentes\Sped
-D:\TRIBURTINI\Componentes\EcoCentauro
-D:\temp\nfe nova\outros\fortesreport-d7
-D:\TRIBURTINI\componentes\ckie
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrDiversos
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrComum
-D:\TRIBURTINI\Componentes\ACBr\Fontes\ACBrSerial
-D:\TRIBURTINI\Componentes\ACBr\Fontes\synalist
-D:\TRIBURTINI\Componentes\DevExpress\8ExpressExport Library\Packages
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrBoleto
-D:\Triburtini\Componentes\fortesreport-d7
-D:\Triburtini\Componentes\ACBr\Fontes\PCN2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrNFe2
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFiscal
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCapicom
-C:\Projetos\Classes\Componentes\Duel\Memos
-C:\Projetos\Classes\Componentes\Duel\Lib
-C:\Projetos\Classes\Componentes\Duel\Labels
-C:\Projetos\Classes\Componentes\Duel\Grids
-C:\Projetos\Classes\Componentes\Duel\Edits
-C:\Projetos\Classes\Componentes\Duel\drxCtrlLicenca
-C:\Projetos\Classes\Componentes\Duel\Boxes
-C:\Projetos\Classes\Componentes\Duel\Botoes
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonGeraChave
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonLincaRegistro
-C:\Projetos\Classes\Componentes\Duel\Botoes\TButtonOpenDialog
-C:\Projetos\Classes\Componentes\Duel\Misc
-C:\Projetos\Classes\Componentes\synapse\source
-C:\Projetos\Classes\Componentes\synedit_beta_2_0_2\Source
-C:\Projetos\Classes\Componentes\ASQLite3_2008_03_A
-C:\Projetos\Classes\Componentes\jcl\source\windows
-C:\Projetos\Classes\Componentes\jcl
-C:\Projetos\Classes\Componentes\jcl\source
-C:\Projetos\Classes\Componentes\jcl\lib\d7
-C:\Projetos\Classes\Componentes\Seguranca
-C:\Projetos\Fontes
-D:\Triburtini\Componentes\acbr\Fontes\ACBrNFSe
-d:\triburtini\componentes\ntierobjects2010\dcu
-D:\Triburtini\Componentes\NTierObjects2010\src
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrCTe
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDPisCofins
-D:\Triburtini\Componentes\OmniXML-latest
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDFCont
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSPED\ACBrSPEDContabil
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrTCP
-C:\Projetos\Classes\Componentes\XstringGrid
-C:\Projetos\Classes\Componentes\VNCServer
-D:\Triburtini\Componentes\ACBr\Fontes\ACBrSAT
-$(ProgramFiles)\Barcode2D\delphi_7
-D:\Triburtini\Componentes\QRCODE
-$(ProgramFiles)\PngComponents\Source
-Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Search Path
-Search Path Registry Entry written
-
-***************************************
-END: Registering Component Package Paths
-***************************************
-
