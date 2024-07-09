@@ -66,6 +66,7 @@ resourcestring
     '(COLOR_RGBALPHA and COLOR_GRAYSCALEALPHA)';
   EPNGHeaderNotPresentText = 'This operation is not valid because the ' +
     'current image contains no valid header.';
+  EInvalidNewSize = 'The new size provided for image resizing is invalid.';
   {$ENDIF}
   {$IFDEF Portuguese}
   EPngInvalidCRCText = 'Essa imagem "Portable Network Graphics" não é válida ' +
@@ -122,6 +123,7 @@ resourcestring
     '(COLOR_RGBALPHA e COLOR_GRAYSCALEALPHA)';
   EPNGHeaderNotPresentText = 'Essa operação não é válida porque a ' +
     'imagem atual não contém um cabeçalho válido.';
+  EInvalidNewSize = 'O novo tamanho definido para redimensionamento de imagem é inválido.';
   {$ENDIF}
   {Language strings for German}
   {$IFDEF German}

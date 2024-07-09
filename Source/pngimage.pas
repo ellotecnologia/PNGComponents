@@ -188,6 +188,7 @@ type
   EPNGCouldNotLoadResource = class(Exception);
   EPNGCannotChangeTransparent = class(Exception);
   EPNGHeaderNotPresent = class(Exception);
+  EPNGInvalidNewSize = class(Exception);
 
 type
   {Direct access to pixels using R,G,B}
@@ -363,6 +364,8 @@ type
     GammaTable, InverseGamma: Array[Byte] of Byte;
     procedure InitializeGamma;
   private
+    {Canvas}
+    {$IFDEF UseDelphi}fCanvas: TCanvas;{$ENDIF}
     {Temporary palette}
     TempPalette: HPalette;
     {Filters to test to encode}
@@ -435,6 +438,8 @@ type
     {$ENDIF}
     {Calling errors}
     procedure RaiseError(ExceptionClass: ExceptClass; Text: String);
+    {Canvas}
+    {$IFDEF UseDelphi}property Canvas: TCanvas read fCanvas;{$ENDIF}
     {Returns a scanline from png}
     property Scanline[const Index: Integer]: Pointer read GetScanline;
     {$IFDEF Store16bits}
@@ -452,6 +457,8 @@ type
     {Assigns from a windows bitmap handle}
     procedure AssignHandle(Handle: HBitmap; Transparent: Boolean;
       TransparentColor: ColorRef);
+    {Resizes the PNG image}
+    procedure Resize(const CX, CY: Integer);
     {Draws the image into a canvas}
     procedure Draw(ACanvas: TCanvas; const Rect: TRect);
       {$IFDEF UseDelphi}override;{$ENDIF}
@@ -4157,6 +4164,7 @@ begin
   inherited Create;
 
   {Initial properties}
+  {$IFDEF UseDelphi}fCanvas := TCanvas.Create;{$ENDIF}
   TempPalette := 0;
   fFilters := [pfSub];
   fCompressionLevel := 7;
@@ -4172,6 +4180,8 @@ begin
   {Free object list}
   ClearChunks;
   fChunkList.Free;
+  {$IFDEF UseDelphi}if fCanvas <> nil then
+    fCanvas.Free;{$ENDIF}
   {Free the temporary palette}
   if TempPalette <> 0 then DeleteObject(TempPalette);
 
@@ -4490,6 +4500,87 @@ begin
   SelectObject(BufferDC, OldBitmap);
   DeleteObject(BufferBitmap);
   DeleteDC(BufferDC);
+end;
+
+{Resizes the PNG image}
+procedure TPngObject.Resize(const CX, CY: Integer);
+  function Min(const A, B: Integer): Integer;
+  begin
+    if A < B then Result := A else Result := B;
+  end;
+var
+  Header: TChunkIHDR;
+  Line, NewBytesPerRow: Integer;
+  NewHandle: HBitmap;
+  NewDC: HDC;
+  NewImageData: Pointer;
+  NewImageAlpha: Pointer;
+  NewImageExtra: Pointer;
+begin
+  if (CX > 0) and (CY > 0) then
+  begin
+    {Gets some actual information}
+    Header := Self.Header;
+
+    {Creates the new image}
+    NewDC := CreateCompatibleDC(Header.ImageDC);
+    Header.BitmapInfo.bmiHeader.biWidth := cx;
+    Header.BitmapInfo.bmiHeader.biHeight := cy;
+    NewHandle := CreateDIBSection(NewDC, pBitmapInfo(@Header.BitmapInfo)^,
+      DIB_RGB_COLORS, NewImageData, 0, 0);
+    SelectObject(NewDC, NewHandle);
+    {$IFDEF UseDelphi}Canvas.Handle := NewDC;{$ENDIF}
+    NewBytesPerRow := (((Header.BitmapInfo.bmiHeader.biBitCount * cx) + 31)
+      and not 31) div 8;
+
+    {Copies the image data}
+    for Line := 0 to Min(CY - 1, Height - 1) do
+      CopyMemory(PByte(Integer(NewImageData) + (CY - 1) * NewBytesPerRow - (Line * NewBytesPerRow)), Scanline[Line],
+        Min(NewBytesPerRow, Header.BytesPerRow));
+
+    {Build array for alpha information, if necessary}
+    if (Header.ColorType = COLOR_RGBALPHA) or
+      (Header.ColorType = COLOR_GRAYSCALEALPHA) then
+    begin
+      GetMem(NewImageAlpha, CX * CY);
+      Fillchar(NewImageAlpha^, CX * CY, 255);
+      for Line := 0 to Min(CY - 1, Height - 1) do
+        CopyMemory(PByte(Integer(NewImageAlpha) + (Line * CX)),
+          AlphaScanline[Line], Min(CX, Width));
+      FreeMem(Header.ImageAlpha);
+      Header.ImageAlpha := NewImageAlpha;
+    end;
+
+    {$IFDEF Store16bits}
+    if (Header.BitDepth = 16) then
+    begin
+      GetMem(NewImageExtra, CX * CY);
+      Fillchar(NewImageExtra^, CX * CY, 0);
+      for Line := 0 to Min(CY - 1, Height - 1) do
+        CopyMemory(PByte(NewImageExtra) + (Line * CX),
+          ExtraScanline[Line], Min(CX, Width));
+      FreeMem(Header.ExtraImageData);
+      Header.ExtraImageData := NewImageExtra;
+    end;
+    {$ENDIF}
+
+    {Deletes the old image}
+    DeleteObject(Header.ImageHandle);
+    DeleteDC(Header.ImageDC);
+
+    {Prepares the header to get the new image}
+    Header.BytesPerRow := NewBytesPerRow;
+    Header.IHDRData.Width := CX;
+    Header.IHDRData.Height := CY;
+    Header.ImageData := NewImageData;
+
+    {Replaces with the new image}
+    Header.ImageHandle := NewHandle;
+    Header.ImageDC := NewDC;
+  end
+  else
+    {The new size provided is invalid}
+    RaiseError(EPNGInvalidNewSize, EInvalidNewSize)
 end;
 
 {Draws the image into a canvas}
