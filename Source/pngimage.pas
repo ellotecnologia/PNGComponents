@@ -4515,7 +4515,9 @@ var
   NewDC: HDC;
   NewImageData: Pointer;
   NewImageAlpha: Pointer;
+  {$IFDEF Store16bits}
   NewImageExtra: Pointer;
+  {$ENDIF}
 begin
   if (CX > 0) and (CY > 0) then
   begin
